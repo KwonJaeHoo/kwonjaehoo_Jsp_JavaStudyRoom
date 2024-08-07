@@ -52,7 +52,7 @@ CSS는 교육 과정 중 제공 받은 기본 CSS로 작성했습니다.
 
 ## 주요 기능 이미지
 
-<p align="left>
+<p align="left">
   
   <a>게시판 리스트</a>
     <img alt="_list" src="https://github.com/user-attachments/assets/5f1fb979-42c5-4817-a8a8-476c5115725d"/>
