@@ -54,9 +54,11 @@ ERD는 2인팀으로 만들었고, 각 Process는 개별적으로 작성하였�
   
   <a>게시판 리스트</a>
     <img alt="list" src="https://github.com/user-attachments/assets/5f1fb979-42c5-4817-a8a8-476c5115725d"/>
+    
   <a>게시판 글 작성하기</a>
     <img alt="write" src="https://github.com/user-attachments/assets/6fd3f20e-c339-4192-9334-2e4af97e8f0f"/>
+    
   <a>마이페이지 글 작성내역</a>
     <img alt="mypage" src="https://github.com/user-attachments/assets/56df081a-8428-4377-8cc1-dfe5f27f67f6"/>
-  
+    
 </p>
